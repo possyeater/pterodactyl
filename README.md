@@ -1,8 +1,7 @@
 # Pterodactyl-Installation-Script
 Install pterodactyl panel on your web server
 
-gh repo clone possyeater/Pterodactyl-Installation-Script
 
-cd "Pterodactyl-Installation-Script"
+curl -Ls https://api.github.com/repos/Revenact/Pterodactyl-Script/releases/latest | grep -wo "https.*install.sh" | wget -qi - 
 
-./panellinstall.sh
+bash install.sh 
