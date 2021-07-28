@@ -5,4 +5,4 @@ gh repo clone possyeater/Pterodactyl-Installation-Script
 
 cd "Pterodactyl-Installation-Script"
 
-./pannelinstall.sh
+./panellinstall.sh
