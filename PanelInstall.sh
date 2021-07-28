@@ -4,21 +4,20 @@
 # Pterodactyl Installer                                                  #
 #                                                                        #
 # This script is not associated with the official Pterodactyl Project    #
-# Please use at your own risk.                                           #
+#                                            #
 #                                                                        #
-# This script is a complete rework and remake of                         #
-# https://github.com/VilhelmPrytz/pterodactyl-installer                  # 
+# This script is  made                         #
+# to be user friendly              # 
 #                                                                        #
 # I made a heap of changes to it to suit myself. Then I have decided     #
-# to completely rewrite the script in my own what.                       #
+# use cilhelmprytz script for better system support                      #
 #                                                                        #
 # For a more stable script, and one that is probably maintained better,  #
-# use VilhelmPrytz's script. It also supports multiple operating systems #
-# While this one just supports Ubuntu 18.04                              #
+# ubuntu 19.04 is upportedonly here#
+#                            #
 #                                                                        #
-# If you wish to reuse this script or modify, feel free to do so, just   #
-# provide the adaquite credit                                            #
-# https://github.com/MrFlacko/                                           #
+# credits to rdphub team and  #
+# https://github.com/MrFlacko/                                             #                                        #
 ##########################################################################
 
 # This defines the version of the script. It allows me to easily keep track of it when I'm testing the script from GitHub
